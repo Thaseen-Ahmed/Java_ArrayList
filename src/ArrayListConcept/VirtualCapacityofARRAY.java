@@ -5,7 +5,7 @@ import java.util.*;
 
 public class VirtualCapacityofARRAY {
     public static void main(String[] args) {
-//        Virtual Capacity of array = 10
+//        Virtual Capacity or Default Capacity  of array = 10
         ArrayList<Object> ar = new ArrayList<Object>(15);
         System.out.println(ar.size()); //PC = 0;
         ar.add(5671);

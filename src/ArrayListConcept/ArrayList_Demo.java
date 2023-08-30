@@ -29,6 +29,7 @@ public class ArrayList_Demo {
         System.out.println(ar);
 //        to get the specific index of array
         System.out.println(ar.get(6));
+//        System.out.println(ar.get(-1)); //IndexOutofBoundException
 //        System.out.println(ar.get(9));
 //          to get the size of ar
         System.out.println(ar.size());
