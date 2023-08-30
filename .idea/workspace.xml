@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9f6a36e-bebe-43eb-b1d3-148280f412b8" name="Changes" comment="array;;list">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListConcept/ArrayMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListConcept/Synchronized_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListConcept/_6_Remove_Duplicate_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListConcept/_7_ArrayList_Compare.java" afterDir="false" />
+    <list default="true" id="a9f6a36e-bebe-43eb-b1d3-148280f412b8" name="Changes" comment="Concepts Of ArrayList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListConcept/ArrayList_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListConcept/ArrayList_Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListConcept/ArrayList_Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListConcept/ArrayList_Iteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListConcept/VirtualCapacityofARRAY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListConcept/VirtualCapacityofARRAY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListConcept/_7_ArrayList_Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListConcept/_7_ArrayList_Compare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application._6_Remove_Duplicate_Elements">
+  <component name="RunManager" selected="Application._7_ArrayList_Compare">
     <configuration name="ArrayList_Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListConcept.ArrayList_Iteration" />
       <module name="JAVA Collections" />
@@ -65,19 +59,6 @@
     </configuration>
     <configuration name="ArrayMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListConcept.ArrayMethods" />
-      <module name="JAVA Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayListConcept.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListConcept.GenericsArrayList" />
       <module name="JAVA Collections" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7_ArrayList_Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListConcept._7_ArrayList_Compare" />
+      <module name="JAVA Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayListConcept.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._7_ArrayList_Compare" />
         <item itemvalue="Application._6_Remove_Duplicate_Elements" />
         <item itemvalue="Application.Synchronized_ArrayList" />
         <item itemvalue="Application.ArrayMethods" />
         <item itemvalue="Application.ArrayList_Iteration" />
-        <item itemvalue="Application.GenericsArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -162,11 +156,19 @@
       <option name="project" value="LOCAL" />
       <updated>1693326658807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Concepts Of ArrayList">
+      <created>1693404194069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693404194069</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array;;list" />
-    <option name="LAST_COMMIT_MESSAGE" value="array;;list" />
+    <MESSAGE value="Concepts Of ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concepts Of ArrayList" />
   </component>
 </project>
