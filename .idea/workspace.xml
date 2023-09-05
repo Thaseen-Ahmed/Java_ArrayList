@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9f6a36e-bebe-43eb-b1d3-148280f412b8" name="Changes" comment="Concepts Of ArrayList">
+      <change afterPath="$PROJECT_DIR$/src/HashMap_Concept/HashMap_basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap_Concept/_10_Internal_working_Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap_Concept/_11_HashMap_Initializaytion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap_Concept/_12_HashMap_Sync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap_Concept/_13_HashMap_To_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap_Concept/_9_HashMap_Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListConcept/_18_LinkedListConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListConcept/_19_LinkedList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set_Concepts/_22_HashSetConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set_Concepts/_23_EnumSet_Concepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector_Concept/_20_Vector_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vector_Concept/_Vector_2D_Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16_Tree_Map_Concept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_HashTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListConcept/_7_ArrayList_Compare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayListConcept/_7_ArrayList_Compare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +56,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application._7_ArrayList_Compare">
-    <configuration name="ArrayList_Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListConcept.ArrayList_Iteration" />
+  <component name="RunManager" selected="Application._22_HashSetConcepts">
+    <configuration name="_18_LinkedListConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListConcept._18_LinkedListConcepts" />
       <module name="JAVA Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayListConcept.*" />
+          <option name="PATTERN" value="LinkedListConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListConcept.ArrayMethods" />
+    <configuration name="_19_LinkedList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListConcept._19_LinkedList_Methods" />
       <module name="JAVA Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayListConcept.*" />
+          <option name="PATTERN" value="LinkedListConcept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronized_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListConcept.Synchronized_ArrayList" />
+    <configuration name="_20_Vector_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vector_Concept._20_Vector_Demo" />
       <module name="JAVA Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayListConcept.*" />
+          <option name="PATTERN" value="Vector_Concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6_Remove_Duplicate_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListConcept._6_Remove_Duplicate_Elements" />
+    <configuration name="_22_HashSetConcepts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set_Concepts._22_HashSetConcepts" />
       <module name="JAVA Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayListConcept.*" />
+          <option name="PATTERN" value="Set_Concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7_ArrayList_Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListConcept._7_ArrayList_Compare" />
+    <configuration name="_Vector_2D_Concept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vector_Concept._Vector_2D_Concept" />
       <module name="JAVA Collections" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayListConcept.*" />
+          <option name="PATTERN" value="Vector_Concept.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._7_ArrayList_Compare" />
-        <item itemvalue="Application._6_Remove_Duplicate_Elements" />
-        <item itemvalue="Application.Synchronized_ArrayList" />
-        <item itemvalue="Application.ArrayMethods" />
-        <item itemvalue="Application.ArrayList_Iteration" />
+        <item itemvalue="Application._22_HashSetConcepts" />
+        <item itemvalue="Application._Vector_2D_Concept" />
+        <item itemvalue="Application._20_Vector_Demo" />
+        <item itemvalue="Application._19_LinkedList_Methods" />
+        <item itemvalue="Application._18_LinkedListConcepts" />
       </list>
     </recent_temporary>
   </component>
@@ -170,5 +183,20 @@
     <MESSAGE value="array;;list" />
     <MESSAGE value="Concepts Of ArrayList" />
     <option name="LAST_COMMIT_MESSAGE" value="Concepts Of ArrayList" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_Collections$_10_Internal_working_Hashmap.ic" NAME="_10_Internal_working_Hashmap Coverage Results" MODIFIED="1693546115857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>HashMap_Concept.*</FILTER>
+    </SUITE>
   </component>
 </project>
