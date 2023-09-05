@@ -41,11 +41,5 @@ public class _7_ArrayList_Compare {
         lang1.retainAll(lang2);
         System.out.println(lang1);
 
-
-
-
-
-
-
     }
 }
